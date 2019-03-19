@@ -26,26 +26,50 @@ namespace Job_Interview_WPF_Project
         public MainWindow()
         {
             InitializeComponent();
-            
+            BindDataGrid();
         }
 
-        private void Window_Loaded(object sender, RoutedEventArgs e)
+        static string connectionString = Properties.Settings.Default.JIWP_DataBaseConnectionString;
+        SqlConnection connection = new SqlConnection(connectionString);
+        SqlCommandBuilder builder;
+        SqlDataAdapter adapter;
+        DataTable stuff;
+
+        private void BindDataGrid()
         {
-            //string connectionString = Properties.Settings.Default.JIWP_DataBaseConnectionString;
-            //SqlConnection connection = new SqlConnection(connectionString);
+            
+            
 
             //if (connection.State != System.Data.ConnectionState.Open)
             //{
             //    connection.Open();
             //}
 
-            //SqlDataAdapter adapter = new SqlDataAdapter("SELECT * FROM STUFF", connection);
-            //DataTable stuff = new DataTable();
-            //adapter.Fill(stuff);
+            adapter = new SqlDataAdapter("SELECT * FROM STUFF", connection);
+            stuff = new DataTable();
+            adapter.Fill(stuff);
 
-            //Stuff.ItemsSource = stuff.DefaultView;
+            Data.ItemsSource = stuff.DefaultView;
+            
+        }
 
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                builder = new SqlCommandBuilder(adapter);
+                adapter.Update(stuff);
+                MessageBox.Show("Update complete");
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("Something went wrong");
+            }
+        }
 
+        private void Window_Unloaded(object sender, RoutedEventArgs e)
+        {
+            //connection.Close();
         }
     }
 }

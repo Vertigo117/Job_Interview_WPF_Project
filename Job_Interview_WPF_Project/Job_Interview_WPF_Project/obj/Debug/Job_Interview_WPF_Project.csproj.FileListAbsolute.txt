@@ -35,3 +35,23 @@ C:\Users\Тёма\Documents\GitHub\Job_Interview_WPF_Project\Job_Interview_WPF_P
 \\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\bin\Debug\JIWP_DataBase.mdf
 \\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\bin\Debug\JIWP_DataBase_log.ldf
 \\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\Job_Interview_WPF_Project_Content.g.cs
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\bin\Debug\JIWP_DataBase.mdf
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\bin\Debug\JIWP_DataBase_log.ldf
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\bin\Debug\Job_Interview_WPF_Project.exe.config
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\bin\Debug\Job_Interview_WPF_Project.exe
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\bin\Debug\Job_Interview_WPF_Project.pdb
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\LoggingScreen.g.cs
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\MainWindow.g.cs
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\App.g.cs
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\Job_Interview_WPF_Project_Content.g.cs
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\Job_Interview_WPF_Project_MarkupCompile.cache
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\Job_Interview_WPF_Project_MarkupCompile.lref
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\LoggingScreen.baml
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\MainWindow.baml
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\Job_Interview_WPF_Project.g.resources
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\Job_Interview_WPF_Project.Properties.Resources.resources
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\Job_Interview_WPF_Project.csproj.GenerateResource.Cache
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\Job_Interview_WPF_Project.csproj.CoreCompileInputs.cache
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\Job_Interview_WPF_Project.exe
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\Job_Interview_WPF_Project.pdb
+C:\Users\Vertigo\Desktop\Job_Interview_WPF_Project\Job_Interview_WPF_Project\Job_Interview_WPF_Project\obj\Debug\Job_Interview_WPF_Project.csprojResolveAssemblyReference.cache

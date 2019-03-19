@@ -5,13 +5,26 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Job_Interview_WPF_Project"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" FontSize="14" Background="#04c582" Loaded="Window_Loaded">
-    <Border Background="#2e3137" CornerRadius="20" Margin="20">
-        <StackPanel Margin="20">
-            <Label Content="Stuff" Foreground="White" FontSize="25" HorizontalAlignment="Center"/>
-            <Separator></Separator>
-            <DataGrid Height="100" Margin="20"/>
+        Title="MainWindow" Height="500" Width="800" FontSize="14" Background="#04c582" Unloaded="Window_Unloaded">
+    <Border Background="#2e3137"  Margin="10" CornerRadius="20">
 
-        </StackPanel>
+        <Grid Margin="10">
+
+            <Label Content="Stuff" Foreground="White" FontSize="25" HorizontalAlignment="Center"/>
+            <Separator Margin="140,0,140,335"></Separator>
+            <DataGrid Name="Data" Margin="20,70,20,77" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding STUFF_ID}" CanUserSort="False" ClipboardContentBinding="{x:Null}" Header="ID" IsReadOnly="True"/>
+                    <DataGridTextColumn Binding="{Binding STUFF_NAME}" ClipboardContentBinding="{x:Null}" Header="Name"/>
+                    <DataGridTextColumn Binding="{Binding STUFF_PRICE}" ClipboardContentBinding="{x:Null}" Header="Price"/>
+                    <DataGridTextColumn Binding="{Binding DATE_FROM}" ClipboardContentBinding="{x:Null}" Header="Date From"/>
+                    <DataGridTextColumn Binding="{Binding DATE_TO}" ClipboardContentBinding="{x:Null}" Header="Date To"/>
+                </DataGrid.Columns>
+                
+            </DataGrid>
+            <Button Content="Update" HorizontalAlignment="Left" Margin="20" VerticalAlignment="Bottom" Width="75" Click="Button_Click"/>
+
+
+        </Grid>
     </Border>
 </Window>
