@@ -23,5 +23,21 @@ namespace Job_Interview_WPF_Project
         {
             InitializeComponent();
         }
+
+        private void BtnSubmit_Click(object sender, RoutedEventArgs e)
+        {
+            UserInfo ui = new UserInfo();
+            ui.UserName = txtUsername.Text;
+            ui.Password = txtPassword.Password;
+
+            if (ui.CheckUserInfo() == true)
+            {
+                MainWindow dashboard = new MainWindow();
+                dashboard.Show();
+                this.Close();
+            }
+            else
+                MessageBox.Show("Login failure. Check the Username and Password");
+        }
     }
 }
