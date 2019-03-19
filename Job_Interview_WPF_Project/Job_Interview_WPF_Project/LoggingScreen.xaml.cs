@@ -37,7 +37,11 @@ namespace Job_Interview_WPF_Project
                 this.Close();
             }
             else
-                MessageBox.Show("Login failure. Check the Username and Password");
+            {
+                MessageBox.Show("Login failure. Username or Password is invalid");
+                txtUsername.Clear();
+                txtPassword.Clear();
+            }
         }
     }
 }

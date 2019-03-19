@@ -21,8 +21,7 @@ namespace Job_Interview_WPF_Project
                 con.Open();
             }
 
-            //string sql_Script = String.Format("EXEC Func_CheckUserInfo @username='{0}' @password = '{1}'", UserName, Password);
-            //SqlDataAdapter adapter = new SqlDataAdapter(sql_Script, con);
+            
 
             SqlCommand cmd = new SqlCommand("Proc_CheckUserInfo", con);
             cmd.CommandType = CommandType.StoredProcedure;
@@ -42,6 +41,7 @@ namespace Job_Interview_WPF_Project
             int counter = 0;
             counter = Convert.ToInt32(outputParameter.Value);
             con.Close();
+
             if (counter == 1)
                 return true;
             else
