@@ -20,3 +20,26 @@ C:\Users\avtimche\source\repos\WpfApp1\WpfApp1\obj\Release\WpfApp1.exe
 C:\Users\avtimche\source\repos\WpfApp1\WpfApp1\obj\Release\WpfApp1.pdb
 C:\Users\avtimche\source\repos\WpfApp1\WpfApp1\obj\Release\Insert.g.cs
 C:\Users\avtimche\source\repos\WpfApp1\WpfApp1\obj\Release\Insert.baml
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\bin\Release\Database1.mdf
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\bin\Release\Database1_log.ldf
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\bin\Release\WpfApp1.exe.config
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\bin\Release\WpfApp1.exe
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\bin\Release\WpfApp1.pdb
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\WpfApp1.csprojAssemblyReference.cache
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\Insert.g.cs
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\LoginScreen.g.cs
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\MainWindow.g.cs
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\App.g.cs
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\WpfApp1_Content.g.cs
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\GeneratedInternalTypeHelper.g.cs
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\WpfApp1_MarkupCompile.cache
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\WpfApp1_MarkupCompile.lref
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\Insert.baml
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\LoginScreen.baml
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\MainWindow.baml
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\WpfApp1.g.resources
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\WpfApp1.Properties.Resources.resources
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\WpfApp1.csproj.GenerateResource.cache
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\WpfApp1.exe
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Job_Interview_WPF_Project\WpfApp1\WpfApp1\obj\Release\WpfApp1.pdb
