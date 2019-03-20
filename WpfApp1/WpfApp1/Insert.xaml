@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp1.Insert"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+         Title="Insert" Height="450" Width="300" FontSize="14" Background="#04c582">
+    <Border Background="#2e3137" CornerRadius="20" Margin="20">
+        <StackPanel Margin="20">
+            <Label Content="Insert" Foreground="White" FontSize="25" HorizontalAlignment="Center"/>
+            <Separator></Separator>
+            <Label Content="Name" Foreground="White"/>
+            <TextBox Name="txtName" Background="#545d6a" Foreground="White" FontSize="18"/>
+            <Label Content="Price" Foreground="White"/>
+            <TextBox Name="txtPrice" Background="#545d6a" Foreground="White" FontSize="18"/>
+            <Label Content="Date From" Foreground="White"/>
+            <DatePicker Name="Picker1" Background="#545d6a" Foreground="#545d6a"/>
+            <Label Content="Date To" Foreground="White"/>
+            <DatePicker Name="Picker2" Background="#545d6a" Foreground="#545d6a"/>
+            <Button Name="btnInsert" Content="Insert" Margin="60 10" Background="#545d6a" Foreground="White" FontSize="18" Click="BtnInsert_Click"/>
+        </StackPanel>
+    </Border>
+</Window>
