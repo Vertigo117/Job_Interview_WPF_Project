@@ -42,7 +42,7 @@ namespace WpfApp1
             counter = Convert.ToInt32(outputParameter.Value);
             con.Close();
 
-            if (counter > 0)
+            if (counter > 1)
                 return true;
             else
                 return false;
