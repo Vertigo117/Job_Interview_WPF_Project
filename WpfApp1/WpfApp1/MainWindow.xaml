@@ -18,10 +18,10 @@
             <Label Content="Products" Foreground="White" FontSize="25" HorizontalAlignment="Center" Margin="328,0,332,0" Width="112"/>
             <Separator VerticalAlignment="Top" Margin="40,40,40,0"/>
 
-            <DataGrid x:Name="sTUFFDataGrid"  AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding Source={StaticResource sTUFFViewSource}}" Margin="22,60,22,70" RowDetailsVisibilityMode="VisibleWhenSelected" AlternatingRowBackground="#04c582" IsSynchronizedWithCurrentItem="True" IsTextSearchEnabled="True" >
-
-                <DataGrid.Columns>
-                    <DataGridTextColumn x:Name="sTUFF_IDColumn" Binding="{Binding STUFF_ID}" Header="ID" IsReadOnly="True" />
+            <DataGrid x:Name="sTUFFDataGrid"  Background="#545d6a" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding Source={StaticResource sTUFFViewSource}}" Margin="22,60,22,70" RowDetailsVisibilityMode="VisibleWhenSelected"    AlternatingRowBackground="#04c582"  IsSynchronizedWithCurrentItem="True" IsTextSearchEnabled="True" >
+                
+                <DataGrid.Columns >
+                    <DataGridTextColumn x:Name="sTUFF_IDColumn" Binding="{Binding STUFF_ID}" Header="ID" IsReadOnly="True"  />
                     <DataGridTextColumn x:Name="sTUFF_NAMEColumn" Binding="{Binding STUFF_NAME}" Header="Name" />
                     <DataGridTextColumn x:Name="sTUFF_PRICEColumn" Binding="{Binding STUFF_PRICE}" Header="Price" />
                     <DataGridTemplateColumn x:Name="dATE_FROMColumn" Header="Date From">
@@ -40,8 +40,8 @@
                     </DataGridTemplateColumn>
                 </DataGrid.Columns>
             </DataGrid>
-            <Button Name="btnUpdate" Content="Update" HorizontalAlignment="Right" Margin="0,0,258,24" Width="74" Click="BtnUpdate_Click" RenderTransformOrigin="1.419,0.565" Height="23" VerticalAlignment="Bottom"/>
-            <Button Content="Insert" Margin="252,0,444,24" VerticalAlignment="Bottom" Click="Button_Click"/>
+            <Button Name="btnUpdate" Background="#545d6a" Foreground="White" Content="Update" HorizontalAlignment="Right" Margin="0,0,256,24" Width="76" Click="BtnUpdate_Click"   VerticalAlignment="Bottom"/>
+            <Button Content="Insert" Background="#545d6a" Foreground="White" Margin="0,0,444,24" VerticalAlignment="Bottom" Click="Button_Click" HorizontalAlignment="Right" Width="76"/>
         </Grid>
     </Border>
 </Window>
