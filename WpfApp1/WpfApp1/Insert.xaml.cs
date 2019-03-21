@@ -27,10 +27,19 @@ namespace WpfApp1
         private void BtnInsert_Click(object sender, RoutedEventArgs e)
         {
             Data_Rowcs row = new Data_Rowcs();
-            row.Name = txtName.Text;
-            row.Price =Convert.ToDecimal(txtPrice.Text);
-            row.Date_From = Picker1.SelectedDate.Value;
-            row.Date_To = Picker2.SelectedDate.Value;
+            try
+            {
+
+
+                row.Name = txtName.Text;
+                row.Price = Convert.ToDecimal(txtPrice.Text);
+                row.Date_From = Picker1.SelectedDate.Value;
+                row.Date_To = Picker2.SelectedDate.Value;
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
 
             
 
